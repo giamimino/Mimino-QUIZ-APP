@@ -1,0 +1,9 @@
+answer ans questions backgrounds = hex #04828b
+
+all answers total background = hex #0a4145
+
+time wait background = hex #08646c
+
+time to wait color = hex #ad4653
+
+#322434
