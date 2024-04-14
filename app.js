@@ -799,5 +799,15 @@ function EndGame() {
         localStorage.removeItem('QUIZ8');
         localStorage.removeItem('QUIZ9');
         localStorage.removeItem('QUIZ10');
+
+        if (correctCount >= 7) {
+            var winAudio = document.getElementById('win-audio');
+            winAudio.play()
+        }
     });
+
+    function answerPick() {
+        var answerPick = document.getElementById('answer-pick');
+        answerPick.play();
+    }
 
