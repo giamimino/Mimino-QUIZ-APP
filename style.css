@@ -186,3 +186,197 @@ body {
     display: none;
     margin-top: 200px;
 }
+
+.QUIZ-5 {
+    display: none;
+}
+
+.answer-1-quiz5 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz5 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz5 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz5 {
+    display: none;
+    margin-top: 200px;
+}
+
+.QUIZ-6 {
+    display: none;
+}
+
+.answer-1-quiz6 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz6 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz6 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz6 {
+    display: none;
+    margin-top: 200px;
+}
+
+
+.QUIZ-7 {
+    display: none;
+}
+
+.answer-1-quiz7 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz7 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz7 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz7 {
+    display: none;
+    margin-top: 200px;
+}
+
+.QUIZ-8 {
+    display: none;
+}
+
+.answer-1-quiz8 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz8 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz8 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz8 {
+    display: none;
+    margin-top: 200px;
+}
+
+.QUIZ-9 {
+    display: none;
+}
+
+.answer-1-quiz9 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz9 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz9 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz9 {
+    display: none;
+    margin-top: 200px;
+}
+
+.QUIZ-10 {
+    display: none;
+}
+
+.answer-1-quiz10 {
+    display: none;
+    margin-top: 20px;
+}
+
+
+.answer-2-quiz10 {
+    display: none;
+    margin-top: 80px;
+}
+
+.answer-3-quiz10 {
+    display: none;
+    margin-top: 140px;
+}
+
+.answer-4-quiz10 {
+    display: none;
+    margin-top: 200px;
+}
+
+.result {
+    display: none;
+}
+
+.result-wrapper {
+    width: 100%;
+    height: 70px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.result {
+    width: 100px;
+    height: 50px;
+    font-weight: 600;
+    background-color: cyan;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid cyan;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s ease;
+    color: #000;
+}
+
+.result:hover {
+    box-shadow: 0 0 10px cyan,
+                0 0 20px cyan,
+                0 0 30px cyan,
+                0 0 40px cyan;
+}
+
+.result-text {
+    color: #fff;
+    font-size: 24px;
+    display: none;
+    text-align: center;
+}
