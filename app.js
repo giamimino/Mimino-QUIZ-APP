@@ -769,7 +769,7 @@ function EndGame() {
     var ResultText = document.querySelector('.result-text');
 
     Result.addEventListener('click', function() {
-        // Retrieve values from localStorage
+        
         var Quiz1 = localStorage.getItem('QUIZ1');
         var Quiz2 = localStorage.getItem('QUIZ2');
         var Quiz3 = localStorage.getItem('QUIZ3');
