@@ -788,5 +788,16 @@ function EndGame() {
         
         ResultText.style.display = 'block';
         ResultText.textContent = `${correctCount} correct, ${incorrectCount} incorrect`;
+
+        localStorage.removeItem('QUIZ1');
+        localStorage.removeItem('QUIZ2');
+        localStorage.removeItem('QUIZ3');
+        localStorage.removeItem('QUIZ4');
+        localStorage.removeItem('QUIZ5');
+        localStorage.removeItem('QUIZ6');
+        localStorage.removeItem('QUIZ7');
+        localStorage.removeItem('QUIZ8');
+        localStorage.removeItem('QUIZ9');
+        localStorage.removeItem('QUIZ10');
     });
 
